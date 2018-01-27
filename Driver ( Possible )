@@ -1,5 +1,5 @@
 // This code from https://github.com/elnormous/carddetection
-// changes so far to enum values of Jack, Queen, King
+// Use for information and educational development
 
 #include <opencv2/opencv.hpp>
 #include <opencv2/highgui/highgui.hpp>

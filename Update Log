@@ -1,3 +1,4 @@
 *** Thank you for adding code to this AUM CS INC.ubator Hub!  Please add a log entry here with the date and short description of your deposit.
 Use format Date: DD/MM/YY  Update: Brief description of file updated.  Save code changes ( at min comment out prior code ) or use a new branch until resolved.
 26/01/18 , adding various files from OpenCV docs for video capture and image manipulation.  
+26/01/18, added a base c++ complete driver file from https://github.com/elnormous/carddetection. **Sharing purposes only, not sure this will get us to the ultimate goal ( parking lot spaces )
